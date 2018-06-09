@@ -1,0 +1,36 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-15-7 20:6:5",
+  "loopSlideshow" : 0,
+  "filename" : "BurnerVan",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "BurnerVan",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
+    "86BF0148-02D0-473C-B603-4D301FB726D1"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 2,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue",
+    "Helvetica",
+    "HelveticaNeue-Thin",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+}
